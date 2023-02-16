@@ -6,7 +6,7 @@ using System.Linq;
 using System.IO;
 using System.Collections.Generic;
 
-namespace TaxiApp
+namespace LyftReviewApp
 {
     public partial class ReviewSentimentModel
     {

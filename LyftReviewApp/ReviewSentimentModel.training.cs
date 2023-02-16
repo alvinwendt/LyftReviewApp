@@ -8,7 +8,7 @@ using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
 using Microsoft.ML;
 
-namespace TaxiApp
+namespace LyftReviewApp
 {
     public partial class ReviewSentimentModel
     {

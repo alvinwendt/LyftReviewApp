@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TaxiApp
+namespace LyftReviewApp
 {
     class Program
     {
